@@ -2,7 +2,7 @@
 
 A modern, responsive, and visually stunning **personal portfolio website** built to showcase skills, projects, and accomplishments as a web developer. Designed with a sleek dark theme, gradient accents, and interactive elements to capture visitors' attention.
 
-🔴 **Live Demo:** [https://s3portfoli.netlify.app/](https://s3portfoli.netlify.app/)
+🔴 **Live Demo:** [https://s3portfoli.netlify.app/](https://s3portfo.netlify.app/)
 
 ---
 
